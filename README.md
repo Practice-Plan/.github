@@ -2,7 +2,7 @@
 
 <!-- 在这里替换成你的 Logo 图片链接 -->
 <!-- 如果你有 .png 图标，建议上传到仓库的 /assets/ 文件夹下，然后写成 src="./assets/logo.png" -->
-<img src="assets/ico.png" alt="项目 Logo" width="160" height="160" style="border-radius: 12px;">
+<img src="assets/icon.png" alt="项目 Logo" width="160" height="160" style="border-radius: 12px;">
 
 <br>
 
@@ -67,5 +67,5 @@
 <br>
  -->
 <div align="center">
-  <i>⭐ 如果这个项目集对你有帮助，欢迎点亮 Star！ / If this helps you, please give it a Star!</i>
+  <i>⭐ If this helps you, please give it a Star! / 如果这个项目集对你有帮助，欢迎点亮 Star！</i>
 </div>
