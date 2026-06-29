@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- 在这里替换成你的 Logo 图片链接 -->
-<!-- 如果你有 .png 图标，建议上传到仓库的 /assets/ 文件夹下，然后写成 src="./assets/logo.png" -->
 <img src="assets/icon.png" alt="项目 Logo" width="160" height="160" style="border-radius: 12px;">
 
 <br>
